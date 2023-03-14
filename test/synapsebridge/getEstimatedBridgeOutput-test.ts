@@ -1,4 +1,4 @@
-import { shuffle } from "lodash-es";
+import { shuffle } from "lodash-commonjs-es";
 
 import {
     ChainId,
