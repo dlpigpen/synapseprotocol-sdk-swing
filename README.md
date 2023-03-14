@@ -1,6 +1,6 @@
-# synapseprotocol-sdk
+# synapseprotocol-swing
 
-[![NPM](https://img.shields.io/npm/v/@synapseprotocol/sdk?color=blue)](https://www.npmjs.com/package/@synapseprotocol/sdk)
+[![NPM](https://img.shields.io/npm/v/synapseprotocol-swing?color=blue)](https://www.npmjs.com/package/synapseprotocol-swing)
 
 [![Tests (master)](https://img.shields.io/github/workflow/status/synapsecns/sdk/Tests/master?event=push&label=tests%20%28master%29)](https://github.com/synapsecns/sdk/actions/workflows/tests.yaml)
 [![Coverage (master)](https://img.shields.io/coveralls/github/synapsecns/sdk/master?label=coverage%20%28master%29)](https://coveralls.io/github/synapsecns/sdk?branch=master)
